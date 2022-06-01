@@ -1,0 +1,17 @@
+[
+  {
+    "id": "2325a91c-4fef-4651-b859-44d1d904f5d2",
+    "description": "Estudar os conteúdos de Docker da Trybe",
+    "check": true
+  },
+  {
+    "id": "da81663e-faad-4b17-8774-180e173410a1",
+    "description": "Resolver o projeto Docker Todo List",
+    "check": false
+  },
+  {
+    "id": "2eb0c162-c814-4a82-b4f2-aba27cbdc377",
+    "description": "Projeto pessoal",
+    "check": false
+  }
+]
